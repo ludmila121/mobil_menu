@@ -26,3 +26,5 @@
     bodyScrollLock.enableBodyScroll(document.body);
   });
 })();
+const result = _.add(2, 3);
+console.log(result);
